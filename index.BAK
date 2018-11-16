@@ -29,7 +29,7 @@
 
 <body>
     <input type="checkbox" name="toggle" id="toggle" checked=false/>
-    <h4>&nbsp;実績マップ 井上しんいち</h4>
+    <h4>&nbsp;井上しんいち 実績マップ</h4>
     <div id="map"></div>
 
     <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
@@ -45,7 +45,7 @@
                  <img src="images/home.png" height="25">
               </td>
               <td>
-                 <a href="http://www.sin1-inoue.jp/">&nbsp;ホームページ</a>
+                 <a href="http://www.sin1-inoue.jp/">&nbsp;ホームページへ</a>
               </td>
             </tr>
           </table>
