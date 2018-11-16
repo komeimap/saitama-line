@@ -65,10 +65,10 @@ function goTop(){
 		
 		<h3 class="ttl1"><img src="img/ttl2.png" alt="勢いある国づくりへ全力！"></h3>
 		<ul class="cards_list clrfx">
-			<li><a class="card_gallery" href="#card21"><img src="img/21s.png" alt="勢いある国づくりへ全力！1観光立国"></a></li>
-			<li><a class="card_gallery" href="#card22"><img src="img/22s.png" alt="勢いある国づくりへ全力！2トレセン"></a></li>
-			<li><a class="card_gallery" href="#card23"><img src="img/23s.png" alt="勢いある国づくりへ全力！3圏央道"></a></li>
-			<li><a class="card_gallery" href="#card24"><img src="img/24s.png" alt="勢いある国づくりへ全力！4リニア"></a></li>
+			<li><a class="card_gallery" href="#card21"><img src="images/スタンプ1115①.png" alt="勢いある国づくりへ全力！1観光立国"></a></li>
+			<li><a class="card_gallery" href="#card22"><img src="images/スタンプ1115②.png" alt="勢いある国づくりへ全力！2トレセン"></a></li>
+			<li><a class="card_gallery" href="#card23"><img src="images/スタンプ1115③.png" alt="勢いある国づくりへ全力！3圏央道"></a></li>
+			<li><a class="card_gallery" href="#card24"><img src="images/スタンプ1115④.png" alt="勢いある国づくりへ全力！4リニア"></a></li>
 			<li><a class="card_gallery" href="#card25"><img src="img/25s.png" alt="勢いある国づくりへ全力！5建設現場の賃上げ"></a></li>
 			<li><a class="card_gallery" href="#card26"><img src="img/26s.png" alt="勢いある国づくりへ全力！6小中学校耐震化"></a></li>
 		</ul>
