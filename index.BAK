@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <meta name="description" content="さいたま総支部 LINE画像集です。">
 <link rel="stylesheet" type="text/css" href="css/colorbox.css" media="all">
-<link rel="stylesheet" type="text/css" href="css/global.css?date=1008" media="all">
+<link rel="stylesheet" type="text/css" href="css/global.css" media="all">
 <title>さいたま総支部 LINE画像集</title>
 <script>
 var getDevice = (function(){
@@ -19,12 +19,13 @@ var getDevice = (function(){
 })();
 
 function goTop(){
-	if(getDevice == 'sp'){
-		window.location.href= "/m/";
-	} 
-	else{
-		window.location.href= "/";
-	}
+	//if(getDevice == 'sp'){
+	//	window.location.href= "/m/";
+	//} 
+	//else{
+	//	window.location.href= "/";
+	//}
+        window.location.href= "http://komei-saitamacity.com/";
 }
 	
 </script>
