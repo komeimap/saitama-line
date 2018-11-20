@@ -56,7 +56,7 @@ function goTop(){
 		<ul class="cards_list clrfx">
 			<li><a class="card_gallery" href="#card21"><img src="img/スタンプ1115③.png" alt="地域のために全力！1エスカレータ"></a></li>
 			<li><a class="card_gallery" href="#card22"><img src="img/スタンプ５png241アートbold.png" alt="地域のために全力！2病院"></a></li>
-			<li><a class="card_gallery" href="#card23"><img src="img/スタンプ５png24アート.png" alt="地域のために全力！3舎人ライナー"></a></li>
+			<li><a class="card_gallery" href="#card23"><img src="img/スタンプ５png241アートbold.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card24"><img src="img/スタンプ1115②.png" alt="地域のために全力！4踏切"></a></li>
 			<li><a class="card_gallery" href="#card25"><img src="img/スタンプ1115③.png" alt="地域のために全力！5水門"></a></li>
 			<li><a class="card_gallery" href="#card26"><img src="img/スタンプ1115④.png" alt="地域のために全力！6UR団地"></a></li>
