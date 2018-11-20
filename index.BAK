@@ -52,12 +52,6 @@ function goTop(){
 			<a href="#pages_under"><img src="img/intro_text_sp.png" alt="カードをクリックすると大きいサイズでご覧いただけます。スマホでのカード画像ダウンロード方法はページ下部をご覧ください。" class="intro_text_sp"></a>
 		</p>
 		
-		<h3 class="ttl1"><img src="img/ttl1.png" alt="さいたま総支部LINEカード"></h3>
-		<ul class="cards_list clrfx cards_list1">
-			<li><a class="card_gallery" href="#card11"><img src="img/11s.png" alt="さいたま総支部LINEカード1"></a></li>
-			<li><a class="card_gallery" href="#card12"><img src="img/12s.png" alt="さいたま総支部LINEカード2"></a></li>
-		</ul>
-		
 		<h3 class="ttl1"><img src="img/ttl2.png" alt="勢いある国づくりへ全力！"></h3>
 		<ul class="cards_list clrfx">
 			<li><a class="card_gallery" href="#card21"><img src="img/スタンプ1115①.png" alt="勢いある国づくりへ全力！1観光立国"></a></li>
