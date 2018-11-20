@@ -132,38 +132,38 @@ function goTop(){
 </style>
 
 <div id="card21" class="cardarea">
-	<a href="img/img_22.png" download="img/img_22.png">
-		<img src="img/img_22.png" class="imgcard">
+	<a href="img/スタンプ1115③.png" download="img/スタンプ1115③.png">
+		<img src="img/スタンプ1115③.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
 <div id="card22" class="cardarea">
-	<a href="img/スタンプ5_png8.png" download="img/スタンプ5_png8.png">
-		<img src="img/スタンプ5_png8.png" class="imgcard">
+	<a href="img/スタンプ1115④.png" download="img/スタンプ1115④.png">
+		<img src="img/スタンプ1115④.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
 <div id="card23" class="cardarea">
-	<a href="img/スタンプ５png24moji.png" download="img/スタンプ５png24moji.png">
-		<img src="img/スタンプ５png24moji.png" class="imgcard">
-		<img src="img/btn.png" alt="カードをダウンロード">
-	</a>
-</div>
-<div id="card24" class="cardarea">
-	<a href="img/スタンプ５png24アート.png" download="img/スタンプ５png24アート.png">
-		<img src="img/スタンプ５png24アート.png" class="imgcard">
-		<img src="img/btn.png" alt="カードをダウンロード">
-	</a>
-</div>
-<div id="card25" class="cardarea">
 	<a href="img/スタンプ1115①.png" download="img/スタンプ1115①.png">
 		<img src="img/スタンプ1115①.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
-<div id="card26" class="cardarea">
+<div id="card24" class="cardarea">
 	<a href="img/スタンプ1115②.png" download="img/スタンプ1115②.png">
 		<img src="img/スタンプ1115②.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card25" class="cardarea">
+	<a href="img/スタンプ1115③.png" download="img/スタンプ1115③.png">
+		<img src="img/スタンプ1115③.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card26" class="cardarea">
+	<a href="img/スタンプ1115④.png" download="img/スタンプ1115④.png">
+		<img src="img/スタンプ1115④.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
