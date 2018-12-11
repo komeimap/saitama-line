@@ -4,10 +4,14 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<meta name="description" content="さいたま総支部 LINE画像集です。">
+<meta name="description" content="Komei-SaitamaCity LINE画像集です。">
+<meta property="og:image" content="https://komeimap.github.io/saitama-line/img/ogp.png">
+<meta property="og:title" content="Komei-SaitamaCity LINE画像集">
+<meta property="og:description" content="Komei-SaitamaCity LINE画像集です。政策・実績等の画像をご紹介します。">
+<meta property="og:image" content="https://komeimap.github.io/saitama-line/img/ogp.png">
 <link rel="stylesheet" type="text/css" href="css/colorbox.css" media="all">
 <link rel="stylesheet" type="text/css" href="css/global.css" media="all">
-<title>さいたま総支部 LINE画像集</title>
+<title>Komei-SaitamaCity LINE画像集</title>
 <script>
 var getDevice = (function(){
     var ua = navigator.userAgent;
