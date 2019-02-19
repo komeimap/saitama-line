@@ -73,6 +73,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card24"><img src="img/uesannobu004.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card25"><img src="img/uesannobu005.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card26"><img src="img/uesannobu006.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card27"><img src="img/line2uesannobu1.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card28"><img src="img/line2uesannobu2.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card29"><img src="img/line2uesannobu3.png" alt=""></a></li>
 		</ul>
 
 		<h3 class="ttl1"><img src="img/ttl3.png" alt=""></h3>
@@ -83,6 +86,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card34"><img src="img/seki004.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card35"><img src="img/seki005.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card36"><img src="img/seki006.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card37"><img src="img/line2seki1.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card38"><img src="img/line2seki2.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card39"><img src="img/line2seki3.png" alt=""></a></li>
 		</ul>
 		
 		<h3 class="ttl1"><img src="img/ttl4.png" alt=""></h3>
@@ -93,6 +99,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card44"><img src="img/hattori004.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card45"><img src="img/hattori005.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card46"><img src="img/hattori006.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card47"><img src="img/line2hattori1.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card48"><img src="img/line2hattori2.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card49"><img src="img/line2hattori3.png" alt=""></a></li>
 		</ul>
 
 		<h3 class="ttl1"><img src="img/ttl5.png" alt=""></h3>
@@ -103,6 +112,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card54"><img src="img/saito004.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card55"><img src="img/saito005.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card56"><img src="img/saito006.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card57"><img src="img/line2saito1.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card58"><img src="img/line2saito2.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card59"><img src="img/line2saito3.png" alt=""></a></li>
 		</ul>
 
 		<h3 class="ttl1"><img src="img/ttl6.png" alt=""></h3>
@@ -113,6 +125,10 @@ function goTop(){
 			<li><a class="card_gallery" href="#card64"><img src="img/komoriya004.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card65"><img src="img/komoriya005.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card66"><img src="img/komoriya006.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card67"><img src="img/line2komoriya1.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card68"><img src="img/line2komoriya2.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card69"><img src="img/line2komoriya3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card70"><img src="img/line2komoriya4.png" alt=""></a></li>
 		</ul>
 
 		<h3 class="ttl1"><img src="img/ttl7.png" alt=""></h3>
@@ -123,6 +139,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card74"><img src="img/terukina004.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card75"><img src="img/terukina005.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card76"><img src="img/terukina006.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card77"><img src="img/line2terukina1.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card78"><img src="img/line2terukina2.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card79"><img src="img/line2terukina3.png" alt=""></a></li>
 		</ul>
 
 		<h3 class="ttl1"><img src="img/ttl8.png" alt=""></h3>
@@ -133,6 +152,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card84"><img src="img/nishizawa004.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card85"><img src="img/nishizawa005.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card86"><img src="img/nishizawa006.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card87"><img src="img/line2nishizawa1.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card88"><img src="img/line2nishizawa2.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card89"><img src="img/line2nishizawa3.png" alt=""></a></li>
 		</ul>
 
 		<h3 class="ttl1"><img src="img/ttl9.png" alt=""></h3>
@@ -143,6 +165,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card94"><img src="img/yanaka004.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card95"><img src="img/yanaka005.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card96"><img src="img/yanaka006.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card97"><img src="img/line2yanaka1.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card98"><img src="img/line2yanaka2.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card99"><img src="img/line2yanaka3.png" alt=""></a></li>
 		</ul>
 
 		<h3 class="ttl1"><img src="img/ttl10.png" alt=""></h3>
@@ -153,6 +178,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card104"><img src="img/matsushita004.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card105"><img src="img/matsushita005.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card106"><img src="img/matsushita006.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card107"><img src="img/line2matsushita1.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card108"><img src="img/line2matsushita2.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card109"><img src="img/line2matsushita3.png" alt=""></a></li>
 		</ul>
 
 		<h3 class="ttl1"><img src="img/ttl11.png" alt=""></h3>
@@ -163,6 +191,10 @@ function goTop(){
 			<li><a class="card_gallery" href="#card114"><img src="img/kamisaka004.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card115"><img src="img/kamisaka005.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card116"><img src="img/kamisaka006.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card117"><img src="img/line2kamisaka1.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card118"><img src="img/line2kamisaka2.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card119"><img src="img/line2kamisaka3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card120"><img src="img/line2kamisaka4.png" alt=""></a></li>
 		</ul>
 
 		<h3 class="ttl1"><img src="img/ttl12.png" alt=""></h3>
@@ -173,6 +205,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card124"><img src="img/yoshida004.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card125"><img src="img/yoshida005.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card126"><img src="img/yoshida006.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card127"><img src="img/line2yoshida1.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card128"><img src="img/line2yoshida2.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card129"><img src="img/line2yoshida3.png" alt=""></a></li>
 		</ul>
 		
 		<a name="pages_under" id="pages_under"></a>
@@ -247,6 +282,24 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card27" class="cardarea">
+	<a href="img/line2uesannobu1.png" download="img/line2uesannobu1.png">
+		<img src="img/line2uesannobu1.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card28" class="cardarea">
+	<a href="img/line2uesannobu2.png" download="img/line2uesannobu2.png">
+		<img src="img/line2uesannobu2.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card29" class="cardarea">
+	<a href="img/line2uesannobu3.png" download="img/line2uesannobu3.png">
+		<img src="img/line2uesannobu3.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card31" class="cardarea">
 	<a href="img/seki001.png" download="img/seki001.png">
@@ -281,6 +334,24 @@ function goTop(){
 <div id="card36" class="cardarea">
 	<a href="img/seki006.png" download="img/seki006.png">
 		<img src="img/seki006.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card37" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card38" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card39" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
@@ -321,6 +392,24 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card47" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card48" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card49" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card51" class="cardarea">
 	<a href="img/saito001.png" download="img/saito001.png">
@@ -355,6 +444,24 @@ function goTop(){
 <div id="card56" class="cardarea">
 	<a href="img/saito006.png" download="img/saito006.png">
 		<img src="img/saito006.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card57" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card58" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card59" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
@@ -395,6 +502,30 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card67" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card68" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card69" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card70" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card71" class="cardarea">
 	<a href="img/terukina001.png" download="img/terukina001.png">
@@ -429,6 +560,24 @@ function goTop(){
 <div id="card76" class="cardarea">
 	<a href="img/terukina006.png" download="img/terukina006.png">
 		<img src="img/terukina006.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card77" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card78" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card79" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
@@ -469,6 +618,24 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card87" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card88" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card89" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card91" class="cardarea">
 	<a href="img/yanaka001.png" download="img/yanaka001.png">
@@ -506,6 +673,24 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card97" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card98" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card99" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card101" class="cardarea">
 	<a href="img/matsushita001.png" download="img/matsushita001.png">
@@ -540,6 +725,24 @@ function goTop(){
 <div id="card106" class="cardarea">
 	<a href="img/matsushita006.png" download="img/matsushita006.png">
 		<img src="img/matsushita006.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card107" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card108" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card109" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
@@ -581,6 +784,30 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card117" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card118" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card119" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card120" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card121" class="cardarea">
 	<a href="img/yoshida001.png" download="img/yoshida001.png">
@@ -616,6 +843,24 @@ function goTop(){
 <div id="card126" class="cardarea">
 	<a href="img/yoshida006.png" download="img/yoshida006.png">
 		<img src="img/yoshida006.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card127" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card128" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card129" class="cardarea">
+	<a href="img/" download="img/">
+		<img src="img/" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
