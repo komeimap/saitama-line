@@ -91,6 +91,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card28"><img src="img/line2uesannobu2.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card29"><img src="img/line2uesannobu3.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card30"><img src="img/line_uesannobu_hk.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card30_1"><img src="img/line_uesannobu_hk3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card30_2"><img src="img/line_uesannobu_kw01.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card30_3"><img src="img/line_uesannobu_kw02.png" alt=""></a></li>
 		</ul>
 
 		<a name="pages_seki" id="pages_seki"></a>
@@ -106,6 +109,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card38"><img src="img/line2seki2.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card39"><img src="img/line2seki3.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card40"><img src="img/line_seki_hk.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card40_1"><img src="img/line_seki_hk3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card40_2"><img src="img/line_seki_kw01.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card40_3"><img src="img/line_seki_kw02.png" alt=""></a></li>
 		</ul>
 		
 		<a name="pages_hattori" id="pages_hattori"></a>
@@ -121,6 +127,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card48"><img src="img/line2hattori2.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card49"><img src="img/line2hattori3.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card50"><img src="img/line_hattori_hk.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card50_1"><img src="img/line_hattori_hk3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card50_2"><img src="img/line_hattori_kw01.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card50_3"><img src="img/line_hattori_kw02.png" alt=""></a></li>
 		</ul>
 
 		<a name="pages_saito" id="pages_saito"></a>
@@ -136,6 +145,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card58"><img src="img/line2saito2.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card59"><img src="img/line2saito3.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card60"><img src="img/line_saito_hk.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card60_1"><img src="img/line_saito_hk3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card60_2"><img src="img/line_saito_kw01.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card60_3"><img src="img/line_saito_kw02.png" alt=""></a></li>
 		</ul>
 
 		<a name="pages_komoriya" id="pages_komoriya"></a>
@@ -152,6 +164,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card69"><img src="img/line2komoriya3.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card70"><img src="img/line2komoriya4.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card70_1"><img src="img/line_komoriya_hk.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card70_2"><img src="img/line_komoriya_hk3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card70_3"><img src="img/line_komoriya_kw01.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card70_4"><img src="img/line_komoriya_kw02.png" alt=""></a></li>
 		</ul>
 
 		<a name="pages_terukina" id="pages_terukina"></a>
@@ -167,6 +182,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card78"><img src="img/line2terukina2.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card79"><img src="img/line2terukina3.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card80"><img src="img/line_terukina_hk.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card80_1"><img src="img/line_terukina_hk3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card80_2"><img src="img/line_terukina_kw01.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card80_3"><img src="img/line_terukina_kw02.png" alt=""></a></li>
 		</ul>
 
 		<a name="pages_nishizawa" id="pages_nishizawa"></a>
@@ -182,6 +200,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card88"><img src="img/line2nishizawa2.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card89"><img src="img/line2nishizawa3.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card90"><img src="img/line_nishizawa_hk.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card90_1"><img src="img/line_nishizawa_hk3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card90_2"><img src="img/line_nishizawa_kw01.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card90_3"><img src="img/line_nishizawa_kw02.png" alt=""></a></li>
 		</ul>
 
 		<a name="pages_yanaka" id="pages_yanaka"></a>
@@ -197,6 +218,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card98"><img src="img/line2yanaka2.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card99"><img src="img/line2yanaka3.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#car100"><img src="img/line_yanaka_hk.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#car100_1"><img src="img/line_yanaka_hk3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#car100_2"><img src="img/line_yanaka_kw01.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#car100_3"><img src="img/line_yanaka_kw02.png" alt=""></a></li>
 		</ul>
 
 		<a name="pages_matsushita" id="pages_matsushita"></a>
@@ -212,6 +236,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card108"><img src="img/line2matsushita2.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card109"><img src="img/line2matsushita3.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card110"><img src="img/line_matsushita_hk.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card110_1"><img src="img/line_matsushita_hk3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card110_2"><img src="img/line_matsushita_kw01.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card110_3"><img src="img/line_matsushita_kw02.png" alt=""></a></li>
 		</ul>
 
 		<a name="pages_kamisaka" id="pages_kamisaka"></a>
@@ -228,6 +255,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card119"><img src="img/line2kamisaka3.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card120"><img src="img/line2kamisaka4.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card120_1"><img src="img/line_kamisaka_hk.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card120_2"><img src="img/line_kamisaka_hk3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card120_3"><img src="img/line_kamisaka_kw01.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card120_4"><img src="img/line_kamisaka_kw02.png" alt=""></a></li>
 		</ul>
 		
 		<a name="pages_yoshida" id="pages_yoshida"></a>
@@ -243,6 +273,9 @@ function goTop(){
 			<li><a class="card_gallery" href="#card128"><img src="img/line2yoshida2.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card129"><img src="img/line2yoshida3.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card130"><img src="img/line_yoshida_hk.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card130_1"><img src="img/line_yoshida_hk3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card130_2"><img src="img/line_yoshida_kw01.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card130_3"><img src="img/line_yoshida_kw02.png" alt=""></a></li>
 		</ul>
 		
 		<a name="pages_under" id="pages_under"></a>
@@ -342,6 +375,12 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card30_1" class="cardarea">
+	<a href="img/line_uesannobu_hk3.png" download="img/line_uesannobu_hk3.png">
+		<img src="img/line_uesannobu_hk3.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card31" class="cardarea">
 	<a href="img/seki001.png" download="img/seki001.png">
@@ -400,6 +439,12 @@ function goTop(){
 <div id="card40" class="cardarea">
 	<a href="img/line_seki_hk.png" download="img/line_seki_hk.png">
 		<img src="img/line_seki_hk.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card40_1" class="cardarea">
+	<a href="img/line_seki_hk3.png" download="img/line_seki_hk3.png">
+		<img src="img/line_seki_hk3.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
@@ -464,6 +509,12 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card50_1" class="cardarea">
+	<a href="img/line_hattori_hk3.png" download="img/line_hattori_hk3.png">
+		<img src="img/line_hattori_hk3.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card51" class="cardarea">
 	<a href="img/saito001.png" download="img/saito001.png">
@@ -522,6 +573,12 @@ function goTop(){
 <div id="card60" class="cardarea">
 	<a href="img/line_saito_hk.png" download="img/line_saito_hk.png">
 		<img src="img/line_saito_hk.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card60_1" class="cardarea">
+	<a href="img/line_saito_hk3.png" download="img/line_saito_hk3.png">
+		<img src="img/line_saito_hk3.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
@@ -592,6 +649,12 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card70_2" class="cardarea">
+	<a href="img/line_komoriya_hk3.png" download="img/line_komoriya_hk3.png">
+		<img src="img/line_komoriya_hk3.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card71" class="cardarea">
 	<a href="img/terukina001.png" download="img/terukina001.png">
@@ -650,6 +713,12 @@ function goTop(){
 <div id="card80" class="cardarea">
 	<a href="img/line_terukina_hk.png" download="img/line_terukina_hk.png">
 		<img src="img/line_terukina_hk.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card80_1" class="cardarea">
+	<a href="img/line_terukina_hk3.png" download="img/line_terukina_hk3.png">
+		<img src="img/line_terukina_hk3.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
@@ -714,6 +783,12 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card90_1" class="cardarea">
+	<a href="img/line_nishizawa_hk3.png" download="img/line_nishizawa_hk3.png">
+		<img src="img/line_nishizawa_hk3.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card91" class="cardarea">
 	<a href="img/yanaka001.png" download="img/yanaka001.png">
@@ -775,6 +850,12 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card100_1" class="cardarea">
+	<a href="img/line_yanaka_hk3.png" download="img/line_yanaka_hk3.png">
+		<img src="img/line_yanaka_hk3.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card101" class="cardarea">
 	<a href="img/matsushita001.png" download="img/matsushita001.png">
@@ -833,6 +914,12 @@ function goTop(){
 <div id="card110" class="cardarea">
 	<a href="img/line_matsushita_hk.png" download="img/line_matsushita_hk.png">
 		<img src="img/line_matsushita_hk.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card110_1" class="cardarea">
+	<a href="img/line_matsushita_hk3.png" download="img/line_matsushita_hk3.png">
+		<img src="img/line_matsushita_hk3.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
@@ -904,6 +991,12 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card120_2" class="cardarea">
+	<a href="img/line_kamisaka_hk3.png" download="img/line_kamisaka_hk3.png">
+		<img src="img/line_kamisaka_hk3.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card121" class="cardarea">
 	<a href="img/yoshida001.png" download="img/yoshida001.png">
@@ -963,6 +1056,12 @@ function goTop(){
 <div id="card130" class="cardarea">
 	<a href="img/line_yoshida_hk.png" download="img/line_yoshida_hk.png">
 		<img src="img/line_yoshida_hk.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card130_1" class="cardarea">
+	<a href="img/line_yoshida_hk3.png" download="img/line_yoshida_hk3.png">
+		<img src="img/line_yoshida_hk3.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
