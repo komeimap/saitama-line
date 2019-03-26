@@ -381,6 +381,18 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card30_2" class="cardarea">
+	<a href="img/line_uesannobu_kw01.png" download="img/line_uesannobu_kw01.png">
+		<img src="img/line_uesannobu_kw01.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card30_1" class="cardarea">
+	<a href="img/line_uesannobu_kw02.png" download="img/line_uesannobu_kw02.png">
+		<img src="img/line_uesannobu_kw02.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card31" class="cardarea">
 	<a href="img/seki001.png" download="img/seki001.png">
@@ -445,6 +457,18 @@ function goTop(){
 <div id="card40_1" class="cardarea">
 	<a href="img/line_seki_hk3.png" download="img/line_seki_hk3.png">
 		<img src="img/line_seki_hk3.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card40_2" class="cardarea">
+	<a href="img/line_seki_kw01.png" download="img/line_seki_kw01.png">
+		<img src="img/line_seki_kw01.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card40_3" class="cardarea">
+	<a href="img/line_seki_kw02.png" download="img/line_seki_kw02.png">
+		<img src="img/line_seki_kw02.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
@@ -515,6 +539,18 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card50_2" class="cardarea">
+	<a href="img/line_hattori_kw01.png" download="img/line_hattori_kw01.png">
+		<img src="img/line_hattori_kw01.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card50_3" class="cardarea">
+	<a href="img/line_hattori_kw02.png" download="img/line_hattori_kw02.png">
+		<img src="img/line_hattori_kw02.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card51" class="cardarea">
 	<a href="img/saito001.png" download="img/saito001.png">
@@ -579,6 +615,18 @@ function goTop(){
 <div id="card60_1" class="cardarea">
 	<a href="img/line_saito_hk3.png" download="img/line_saito_hk3.png">
 		<img src="img/line_saito_hk3.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card60_2" class="cardarea">
+	<a href="img/line_saito_kw01.png" download="img/line_saito_kw01.png">
+		<img src="img/line_saito_kw01.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card60_3" class="cardarea">
+	<a href="img/line_saito_kw02.png" download="img/line_saito_kw02.png">
+		<img src="img/line_saito_kw02.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
@@ -655,6 +703,18 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card70_3" class="cardarea">
+	<a href="img/line_komoriya_kw01.png" download="img/line_komoriya_kw01.png">
+		<img src="img/line_komoriya_kw01.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card70_4" class="cardarea">
+	<a href="img/line_komoriya_kw02.png" download="img/line_komoriya_kw02.png">
+		<img src="img/line_komoriya_kw02.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card71" class="cardarea">
 	<a href="img/terukina001.png" download="img/terukina001.png">
@@ -719,6 +779,18 @@ function goTop(){
 <div id="card80_1" class="cardarea">
 	<a href="img/line_terukina_hk3.png" download="img/line_terukina_hk3.png">
 		<img src="img/line_terukina_hk3.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card80_2" class="cardarea">
+	<a href="img/line_terukina_kw01.png" download="img/line_terukina_kw01.png">
+		<img src="img/line_terukina_kw01.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card80_3" class="cardarea">
+	<a href="img/line_terukina_kw02.png" download="img/line_terukina_kw02.png">
+		<img src="img/line_terukina_kw02.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
@@ -789,6 +861,18 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card90_2" class="cardarea">
+	<a href="img/line_nishizawa_kw01.png" download="img/line_nishizawa_kw01.png">
+		<img src="img/line_nishizawa_kw01.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card90_3" class="cardarea">
+	<a href="img/line_nishizawa_kw02.png" download="img/line_nishizawa_kw02.png">
+		<img src="img/line_nishizawa_kw02.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card91" class="cardarea">
 	<a href="img/yanaka001.png" download="img/yanaka001.png">
@@ -856,6 +940,18 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card100_2" class="cardarea">
+	<a href="img/line_yanaka_kw01.png" download="img/line_yanaka_kw01.png">
+		<img src="img/line_yanaka_kw01.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card100_3" class="cardarea">
+	<a href="img/line_yanaka_kw02.png" download="img/line_yanaka_kw02.png">
+		<img src="img/line_yanaka_kw02.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card101" class="cardarea">
 	<a href="img/matsushita001.png" download="img/matsushita001.png">
@@ -920,6 +1016,18 @@ function goTop(){
 <div id="card110_1" class="cardarea">
 	<a href="img/line_matsushita_hk3.png" download="img/line_matsushita_hk3.png">
 		<img src="img/line_matsushita_hk3.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card110_2" class="cardarea">
+	<a href="img/line_matsushita_kw01.png" download="img/line_matsushita_kw01.png">
+		<img src="img/line_matsushita_kw01.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card110_3" class="cardarea">
+	<a href="img/line_matsushita_kw02.png" download="img/line_matsushita_kw02.png">
+		<img src="img/line_matsushita_kw02.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
@@ -997,6 +1105,18 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
+<div id="card120_3" class="cardarea">
+	<a href="img/line_kamisaka_kw01.png" download="img/line_kamisaka_kw01.png">
+		<img src="img/line_kamisaka_kw01.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card120_4" class="cardarea">
+	<a href="img/line_kamisaka_kw02.png" download="img/line_kamisaka_kw02.png">
+		<img src="img/line_kamisaka_kw02.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
 
 <div id="card121" class="cardarea">
 	<a href="img/yoshida001.png" download="img/yoshida001.png">
@@ -1062,6 +1182,18 @@ function goTop(){
 <div id="card130_1" class="cardarea">
 	<a href="img/line_yoshida_hk3.png" download="img/line_yoshida_hk3.png">
 		<img src="img/line_yoshida_hk3.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card130_2" class="cardarea">
+	<a href="img/line_yoshida_kw01.png" download="img/line_yoshida_kw01.png">
+		<img src="img/line_yoshida_kw01.png" class="imgcard">
+		<img src="img/btn.png" alt="カードをダウンロード">
+	</a>
+</div>
+<div id="card130_3" class="cardarea">
+	<a href="img/line_yoshida_kw02.png" download="img/line_yoshida_kw02.png">
+		<img src="img/line_yoshida_kw02.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
