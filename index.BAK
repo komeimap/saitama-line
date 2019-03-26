@@ -217,10 +217,10 @@ function goTop(){
 			<li><a class="card_gallery" href="#card97"><img src="img/line2yanaka1.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card98"><img src="img/line2yanaka2.png" alt=""></a></li>
 			<li><a class="card_gallery" href="#card99"><img src="img/line2yanaka3.png" alt=""></a></li>
-			<li><a class="card_gallery" href="#car100"><img src="img/line_yanaka_hk.png" alt=""></a></li>
-			<li><a class="card_gallery" href="#car100_1"><img src="img/line_yanaka_hk3.png" alt=""></a></li>
-			<li><a class="card_gallery" href="#car100_2"><img src="img/line_yanaka_kw01.png" alt=""></a></li>
-			<li><a class="card_gallery" href="#car100_3"><img src="img/line_yanaka_kw02.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card100"><img src="img/line_yanaka_hk.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card100_1"><img src="img/line_yanaka_hk3.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card100_2"><img src="img/line_yanaka_kw01.png" alt=""></a></li>
+			<li><a class="card_gallery" href="#card100_3"><img src="img/line_yanaka_kw02.png" alt=""></a></li>
 		</ul>
 
 		<a name="pages_matsushita" id="pages_matsushita"></a>
@@ -387,7 +387,7 @@ function goTop(){
 		<img src="img/btn.png" alt="カードをダウンロード">
 	</a>
 </div>
-<div id="card30_1" class="cardarea">
+<div id="card30_3" class="cardarea">
 	<a href="img/line_uesannobu_kw02.png" download="img/line_uesannobu_kw02.png">
 		<img src="img/line_uesannobu_kw02.png" class="imgcard">
 		<img src="img/btn.png" alt="カードをダウンロード">
